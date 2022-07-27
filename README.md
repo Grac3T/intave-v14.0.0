@@ -1,6 +1,8 @@
 # intave-v14.0.0
 Coming soon :)
 
+Collaborative effort with [Mozart](https://github.com/BytecodeMozart)
+
 Sneakies 
 
 ![Intave-1](https://i.imgur.com/WkexzbV.png)
